@@ -1,1 +1,0 @@
-# MyMetricServerK8s
